@@ -15,4 +15,4 @@ Education
 
 Research Topics
 ------
-Deep Learning, Machine Learning, Artificial Intelligence, Pattern Recognition, Mathematical Optimization, Signal Processing, Magnetic Resonance Imaging (MRI), Image Reconstruction
+Compressed Sensing, Deep Learning, Machine Learning, Artificial Intelligence, Pattern Recognition, Mathematical Optimization, Signal Processing, Magnetic Resonance Imaging (MRI), Image Reconstruction
