@@ -7,7 +7,7 @@ Education
 ------
 * Ph.D., Electrical Engineering and Computer Science, Massachusetts Insititute of Technology (2016)
 
-* S.M., Electrical Engineering and Computer Science, Carnegie Mellon University (2013)
+* S.M., Electrical Engineering and Computer Science, Massachusetts Insititute of Technology (2013)
 
 * B.S., Electrical and Computer Engineering, Carnegie Mellon University (2011)
 
